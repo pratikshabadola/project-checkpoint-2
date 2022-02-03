@@ -2,7 +2,6 @@ ul {
     padding: 20px;
     list-style-type: none;
     background-color: darkgreen;
-
 }
 
 h1 {
@@ -11,11 +10,14 @@ h1 {
 }
 
 h2 {
-    margin: 10px;
+    font-size: 25px;
+    margin: 20px;
+    margin-left: 10px;
 }
 
 p {
     margin: 10px;
+    font-size: 17px;
 }
 
 .skip {
@@ -45,7 +47,7 @@ li a{
 }
 
 .active {
-    background-color: darkkhaki;
+    background-color: black;
     font-weight: bold;
 }
 
